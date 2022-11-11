@@ -5,217 +5,29 @@
 [LinkedIn](https://www.linkedin.com/in/yi-chun-w/) 
 <!--[[News Papers Press Coverage]{.ul}](https://www.notion.so/Press-Coverage-72810ef267d3492b9a5943869286da73)-->
 
-### Education
-
-|University of Oxford |I-Shou University|
-|--------------------|-------------------|
-|MSc Radiation Biology (2018~2019)|BSc Medical Imaging and Radiology Sciences (2014~2018)|
-|Merit|GPA 4.0|
-|Master thesis accepted for 59th PTCOG conference presentation|Fully-funded bachelor's degree|
- 
-### Employment Experiences
-
-##### Imaging Applicaitons Scientist Perspectum Ltd, Feb 2022-Present
-- Leadership: I had the vision to improve our comapny's technical support capability by translating technical documentations into the native laguage for the patnering imaging center, I enroled a team to help me to deliver the vision with setting up translation/review pipeline, re-directing budget allocation and automate feedback collection mechanism. Today, we hit the milestones of supporting 5 major languages and received at least 10 pieces of positive feedback. Most importantly, we leverage one of the biggest strength here in Perspectum, a talent pool that consist of at least 28 nationalities. 
-- Produced 256-page Systematic Literature Review for Japan PDMA clinical assessment on quantitative liver MRI health technology (SLR_Table_Production_Tool)
-- Scaled documentation production by producing 98+ image acquisition manuals for <!--pharmaceutical companies including Akero, Eli Lilly, Bio89, Fractyl and Jassen-->professional MR radiographers in 8 months period by implementing structure-based authoring and single-source publishing with `XML` (Paligo_Renamer_Tool)
-    <!-- - Produced 2 blog posts in technical/scientific writing: [Technical Writing Tips & Tricks with Paligo](https://www.notion.so/Technical-Writing-Tips-Tricks-with-Paligo-f536e1443d744407834eae952c27f8c1), [Competitive Analysis Paligo vs MadCap Flare](https://whyseeyc.notion.site/Competitive-Analysis-Paligo-vs-MadCap-Flare-9624f9c96b1d4898b13ce8bbcee7b5c9)
-    - Produced 1 Youtube tutorial in targeting audience: [Single Source Publishing with PowerPoint in 2 Applications](https://www.youtube.com/watch?v=WYJxbrqzxA8) -->
-- Specialised in standardising sequence in major MR vendors (Siemens, Philips, GE)
-- Automated laboratory equipment quarterly validation reports with `MATLAB LiveScript`
-<!-- - Designed graphics with `Figma` for **effective communication** with the SWE team 
-- Designing Imaging Acquisition Help Center Website with `HTML`,`CSS` (predict to be launched in summer 2022)
-- Produced conference presentation with `Markdown Preview Enhanced` `Mermaid` `Jupyter Notebook` (Accepted!) -->
-
-
-##### Imaging Applications Associate Perspectum Ltd, Jan 2020-Feb 2022
-- Conducted preliminary testing on de-identification software DicomClearnerTM, OsiriX, Horos with DICOM Tag management
-- Responsible for quantitative MRI acquisition of clinical trial for long Covid-19 patients: CoverScan (Clinical Trial Identifier: NCT04369807)
-- Manufactured 2-3 laboratory equipment(Spheric Phantom) for repeatability & reproducibility experiment
-<!-- - Boosted record sustainability with healthcare data management software *Castor* and *MS CRM* (**4000+** scientific data-points, **250+** clients record)
-- Harmonised communications across product application, customer support and science solutions teams  -->
-
-
-
-<!-- ##### Clinical Intern Radiographer National Taiwan University Hospital 2017-2018
-- Achieved **1st Prize out of 1800 candidates** during 2018 Radiographer Certificate Exam
-- **Elected as the trainee representative** in NTUH annual assessment 2018
-- Completed rotation in the departments of Diagnostic Imaging(4 Months), Nuclear Medicine(2 Months), and Radiotherapy(2 Months)
-- Submitted 3 clinical case studies on imaging modalities including linear accelerator, mammography and ultrasound -->
-
-
-<!-- ##### Research and Teaching Assistant, Medical Physics Lab, I-Shou University 2015-2017
-
-- Responsible for demonstrating at dose calculation experiments; producing  experimental protocols
-- Financed laboratory research grant by **liaising** with the Ministry of Educational and relevant school authorities -->
-
-<!--
-##### Personal English Tutor Pai Han Foreign Language School 2016-2017
-
-- My student achieved full score in English during the high school enrolment exam 2017 and was accepted by Kaohsiung Municipal Kaohsiung Senior High School
-Content writing: Designed customized English courses and promoting materials for agency
--->
-<!--
-##### Apprentice at Diagnostic Imaging Ward Kaohsiung General Hospital Summer 2016
-- Shadowed ICU portable X-ray operation, CT imaging and MRI imaging
---->
-
-<!-- 
-### Education
-
-|University of Oxford |I-Shou University|
-|--------------------|-------------------|
-|MSc Radiation Biology (2018~2019)|BSc Medical Imaging and Radiology Sciences (2014~2018)|
-|Merit|GPA 4.0|
-|Master thesis accepted for 59th PTCOG conference presentation|Fully-funded bachelor's degree| -->
-
-
-### Programming Experiences
-
-##### Paligo_Renamer_Tool Aug 2022
-
-- A Python tool which helps change file names that complies company's naming convention. This automates the download 3 files → unzip 3 files → rename 3 files steps into one click
-- Available by request
-
-##### SLR_Table_Production_Tool Feb 2022
-
-- A samll Python app which helps to organise tables for scientific publication on systematic literature review. 
-- Available by request
-
-##### TechLab Open Source Project: Chariteer Oct 2021 - Feb 2022
-
-
-- Collaborating with fellow trainee developers to design a platform that matches talented volunteers with charities to maximise social impact
-- Responsible for project management with [GitHub Projects](https://github.com/WhySeeYC/Chariteer/projects/1) and data science implementation
-- Available at [GitHub Repo Chariteer](https://github.com/WhySeeYC/Chariteer), [Medium Post](https://medium.com/@london_6354/chariteer-eb6a68b00ec1), [Digital Shaper Certificate](https://www.linkedin.com/posts/yi-chun-w_datascience-webdevelopment-uiux-activity-6905896800126144512-wCEv?utm_source=linkedin_share&utm_medium=member_desktop_web)
-
-<!-- ##### Web-based Imaging Help Center project August 2021 - Present\
-[This project is actively under development and is expected to launch in 2022.]()
-
-- Established single-sopurce publishing pipeline for multiple formats: `HTML` and `PDF`
-- Coupled `Figma Vector Graphic` and `CSS` to prototype website front end
-- Strategising production, review, legal sign-off and deployment procedures across departments for user-facing software product manuals -->
-
-##### Pineapple Juice Project May 2021 - Nov 2021
-
-- Implemented `os`, `pdfplumber` to organise conduct data cleaning and organising
-- Implemented `Scipy` to perform statistical analysis, sensitivity & specificity analysis
-- Implemented `matplotlib` and `pandas` for result data visualisation
-- This work is **accepted and presented in ISMRM 2022 conference**
-- Available at [ISMRM Member Portal](https://youtu.be/e1ppwkVz9gU)
-<!-- 
-[blog](https://www.notion.so/Pineapple-Juice-Project-e532992cf4804f68aadcddb1d5cb82c3)  -->
-
-##### fYnanCe Project Dec 2020 - Apr 2021
-
-
-- Implemented `regular expression` to extract and organise data from payslip files
-- Implemented `Numpy` and `Pandas` to analyse and visualise expense data in csv format
-- Implemented `Tkinter` to create an app that wrap both above functions
-- Implemented `matplotlib` to present financial data
-- Available at [Build a Personal Finance App with Python Part1](https://www.notion.so/Build-a-Finance-App-with-Python-d11750a039ce43bd884912340d023247) 
-[, Part2](https://www.notion.so/Build-a-Finance-App-with-Python-Part2-a7e192619eaf47bd966fc3ee686f96af)
-[, Part3](https://www.notion.so/Build-a-Finance-App-with-Python-Part2-a7e192619eaf47bd966fc3ee686f96af)
-
-
-
-
-### Research Experiences
-##### Master Project 5 months
-[Dosimetric Differences Between Margin-based and Minimax Optimisation VMAT Plans for NSCLC](https://www.linkedin.com/posts/yi-chun-w_ptcog-conference-research-activity-6635549271171141632-WEL6) 
-
-- Goal: to compare **radiotherapy** treatment efficacy between two different dose optimisation techniques
-- Skill: visualized ionising radiation dose data to show tumour coverage with `Raystation 7`, `Python Pandas, Numpy`
-- Benefit: proposed novel treatment planning concept that potentially reduces the side effect of radiotherapy
-- This work was **accepted for PTCOG 2020 conference poster presentation**
-
-<!-- ##### Industrial Research Project 7 months
-
-[Measuring the Impact of Pineapple Juice on Quantitative Liver MRI Metrics](https://www.linkedin.com/posts/yi-chun-w_ismrm-mri-ismrm-activity-6899477468886249472-xuqk) 
-
-- Goal: to see if introducing pineapple juice as a contrast agent will introduce bias on quantitative MRI reporting for liver metrics
-- Skill: implemented Python libraries:`os`, `pdfplumber` to conduct data cleaning and organising; `Scipy` to perform statistical analysis, sensitivity & specificity analysis; `matplotlib` and `pandas` for result visualisation
-- Benefit: proved that pineapple juice does not introduce noticeable bias towards liver MR metrics
-- This work is **accepted for ISMRM 2022 conference for digital poster presentation** -->
-
-##### Industrial Research Project 3 months
-LiverMultiScan Clinical Systematic Literature Review
-
-- Support SLR submission to Japan PDMA, FDA(on LMSv5) with Report Table organising and writing up narrative summary
-
-
-##### Bachelor Project 3 months
-**Comparisons of Blood flow Conditions of Carotid Artery Before and After Exercise**   
-
-- Goal: to compare the blood flow condition differences with/without high intensity interval training
-- Skill: implemented operation of portable `Sonosite Ultrasound` device
-- Benefit: systematically increased flow velocity and decreased blood viscosity potentially indicated the benefit of short but intense exercise on a person's circulation system
-
-
-
-
-### Skills & Techniques
-<!--- **RayStation** → Radiotherapy Treatment Planning-->
-- `Paligo` `Pandoc` → Scientific writing & Structure authoring [Blog post](https://www.notion.so/Technical-Writing-Tips-Tricks-with-Paligo-f536e1443d744407834eae952c27f8c1) 
-- `Figma` → Scientific graphic design
-- `HTML` `XML` → Web development
-- `Python` `VS Code` `Markdown` → Programming & Research & Documentation [Certificates](https://www.coursera.org/account/accomplishments/certificate/Z43PPHUS2639) + [GitHub Profile](https://github.com/WhySeeYC)
-- `Notion` `GitHub` → [Project Management](https://www.youtube.com/watch?v=ET5JZD7IzLQ) & [Website building](https://whyseeyc.notion.site/WhySeeYC-2b29b11f630c4b289d417e6a5232618c)
-
-
-
-### Certificate & Achievement
-May 2022 Joint Annual Meeting ISMRM-ESMRMB 2022 and the ISMRT 31st Annual Meeting 
-Feb 2022 Digital Shaper Certificate, TechLab London
-Jul 2021  HTML Essential Training, LinkedIn Learning
-Mar 2021 Python Data Structure, Coursera
-Mar 2021 GDPR Awareness, Flexebee CPD Accredited
-Mar 2021 Duty OF Candour, Flexebee CPD Accredited
-Mar 2021 Safeguarding Children Awareness, Flexebee CPD Accredited
-Mar 2021 Safegurading Adult Awareness, Flexebee CPD Accredited
-Mar 2021 DIabetes Awareness, Flexebee CPD Accredited
-Mar 2021 Information Governance Awareness, Flexebee CPD Accredited
-Mar 2021 Lone Working Awareness, Flexebee CPD Accredited
-Mar 2021 Fall Prevention Awareness, Flexebee CPD Accredited
-Mar 2021 Fire Safety Awareness, Flexebee CPD Accredited
-Mar 2021 Mental Health Awareness, Flexebee CPD Accredited
-Mar 2021 Age Verification Awareness, Flexebee CPD Accredited
-Mar 2021 Health and Safety Awareness, Flexebee CPD Accredited
-Mar 2021 Manual Handling of Inanimate Object Awareness, Flexebee CPD Accredited
-Mar 2021 Risk Assessment Awareness, Flexebee CPD Accredited
-Mar 2021 Equality and Diversity, Flexebee CPD Accredited
-Mar 2021 Emergency First Aid Awareness, Flexebee CPD Accredited
-Mar 2021 Infection Control Advanced, Flexebee CPD Accredited
-Mar 2021 Coronavirus Awareness anf Infection Control, Flexebee CPD Accredited
-Mar 2021 Moving and Handling of People Awareness, Flexebee CPD Accredited
-Feb 2021 Standard and Enhenced DBS Background Checked, Disclosure and Baring Service
-Nov 2020 Completion of MRI Operation Training, Perspectum Ltd
-Oct 2020 Programming for Everybody, Coursera
-Mar 2020 Good Clinical Practice (GCP) Training, Perspectum Ltd
-Feb 2020 Security Awareness, CybSafe
-Aug 2019 Statistics and Python Essentials, LinkedIn Learning
-Jan 2019 Research Skills Training Certificate for MPLS Division, University of Oxford
-Aug 2018 Medical Radiation Technologist Certificate, Ministry of Health and Welfare of the Republic of China (Taiwan)
-
-<!-- 
 ### Outreach Experiences
+
+[Volunteer at Oxford Hub - OxUnboxed Plastic Reduction Program Jan 2020 - March 2020](https://www.notion.so/OxUnboxed-Plastic-Reduction-d397a29e98704a23827181e11e19c12e)
+
+- Helped people **reduce plastic packaging** by volunteering at a refill shop that sells dry goods
+
 
 [Event Coordinator at Oxford Notion Meetup Group - Get Things Done Workshop Feb 2020](https://www.youtube.com/watch?v=ET5JZD7IzLQ)
 
-- **Hosted and moderated** Oxford Notion Meetup Group to help Oxford researchers increase work/life productivity
+- Hosted and moderated Oxford Notion Meetup Group to help Oxford researchers increase work/life productivity
 
-![NotionWorshop_Frontpage.png](YCV%2094de05c6bb12482784b5c7753bfe87b5/NotionWorshop_Frontpage.png)
+<!-- ![NotionWorshop_Frontpage.png](YCV%2094de05c6bb12482784b5c7753bfe87b5/NotionWorshop_Frontpage.png) -->
 
 [Chief Event Coordinator Street Dance Society Sep 2015 - Sep 2016](https://www.youtube.com/watch?v=xwuN6WZykl8)
 
-- Collaborated with the committee to **Liaise with University Clubs Office** with **10-pages sponsorship proposal** for financing end of term dance festival, ISUNION
+- Collaborated with the committee to **Liaise with University Clubs Office with sponsorship proposal** for financing end of term dance festival, ISUNION
 
 
 [Event Coordinator at Alan Turning Institute London Oct 2019](https://www.eventbrite.co.uk/e/advancing-pathology-through-ai-powered-digital-workflow-with-joe-yeh-tickets-73933584341?fbclid=IwAR1EOP5ECOdzsTRJqseIq-GGR0Kh66Mn6mEBixVmWyO_-T30O3fXYzisMEU&fbclid=IwAR2FUbRVZiXu3jBJ0VROPBPU_hKco5mGMDKf4AuLkCe8V4VJSm84Tnjx3LE)
 
-- Co-coordinated a talk on entrepreneurship and RnD experience for Joe Yeh MD (CEO of aetherAI). Talk title: "Advancing Pathology Through AI-Powered Digital Workflow"
+- Coordinated a talk on entrepreneurship and RnD experience for Joe Yeh MD (CEO of aetherAI). Talk title: "Advancing Pathology Through AI-Powered Digital Workflow"
 
- 
+<!--  
 ![aetherAITalk.png](YCV%2094de05c6bb12482784b5c7753bfe87b5/aetherAITalk.png)
 
 ### AI in Digital Pathology —  Meet the Future Medicine
@@ -265,7 +77,7 @@ Aug 2018 Medical Radiation Technologist Certificate, Ministry of Health and Welf
     [#OxfordUniversityTaiwaneseStudentSociety牛津大學台灣學生會](https://www.facebook.com/hashtag/oxforduniversitytaiwanesestudentsociety%E7%89%9B%E6%B4%A5%E5%A4%A7%E5%AD%B8%E5%8F%B0%E7%81%A3%E5%AD%B8%E7%94%9F%E6%9C%83?source=feed_text&epa=HASHTAG)
     
     Facebook Event Page: [https://www.facebook.com/events/3072288132812220/](https://www.facebook.com/events/3072288132812220/)
-
+ -->
 
 
 [Public Engagement Researcher at Oxford Oncology Open Day Apr 2019](https://www.oncology.ox.ac.uk/news/oncology-open-day-2019)
@@ -273,14 +85,14 @@ Aug 2018 Medical Radiation Technologist Certificate, Ministry of Health and Welf
 - Engaged 60 A-Level students by chocolate-radiograph matching activity and in turn explained medical physics research principles effectively
 
 
-#### Hair Donation for Cancer Research  Annually
+[Hair Donation for Cancer Research  Annually](https://www.linkedin.com/posts/yi-chun-w_formosacancerfoundation-cancertreatment-chemotherapy-activity-6860905153906667520-dBdp?utm_source=share&utm_medium=member_desktop)
 
-- I cut my hair every year and donate it to Formosa Cancer Foundation. Wig expert will be able to transform the hair into valuable product for our beloved cancer patients
+- Donated hair it to Formosa Cancer Foundation annually to support lukemia amd cancer patients with bespoke wig prodctions. 
+<!--     
+    ![HairDonation.JPG](YCV%2094de05c6bb12482784b5c7753bfe87b5/HairDonation.jpg) -->
     
-    ![HairDonation.JPG](YCV%2094de05c6bb12482784b5c7753bfe87b5/HairDonation.jpg)
-    
 
-
+<!-- 
 ---
 
 
@@ -296,21 +108,249 @@ Aug 2018 Medical Radiation Technologist Certificate, Ministry of Health and Welf
 #### EDA Hospital & Kaohsiung Armed Forced General Hospital
 
 - Actively participate in charity services, fund raising, and direction guiding to visitors
+ -->
 
-[Volunteer at Oxford Hub - OxUnboxed Plastic Reduction Program](https://www.notion.so/OxUnboxed-Plastic-Reduction-d397a29e98704a23827181e11e19c12e)
-
-- Helped people reduce plastic packaging by volunteering at a refill shop that sells dry goods
 <!--[OxUnboxed - Plastic Reduction](https://www.notion.so/OxUnboxed-Plastic-Reduction-d397a29e98704a23827181e11e19c12e)
 
 ### Personal Fitness Trainer
 - Level C Personal Fitness Trainer Health Association R.O.C 2018 - 2020
 -->
 
+### Employment Experiences
+
+##### Imaging Applicaitons Scientist Perspectum Ltd, Feb 2022-Present
+
+- Submitted 2 Conference Proceedings to ISMRM condferences in 2022 (Accepeted and Presented), 2023 (currently under review)
+- Gained **FDA approval** <!-- and Japan PDMA--> with systematic literature review on quantitative liver MRI health technology <!-- (SLR_Table_Production_Tool) -->
+- Scaled documentation production by by implementing structure-based authoring and single-source publishing <!--(Paligo_Renamer_Tool)-->
+- Automated the producttion marketing materials about scientific publications by developing Python GUI tool
+
+
+<!-- 
+- Producing 150+ image acquisition manuals for pharmaceutical companies including Akero, Eli Lilly, Bio89, Fractyl and Jassen / professional MR radiographers in 8 months 
+    <!-- - Produced 2 blog posts in technical/scientific writing: [Technical Writing Tips & Tricks with Paligo](https://www.notion.so/Technical-Writing-Tips-Tricks-with-Paligo-f536e1443d744407834eae952c27f8c1), [Competitive Analysis Paligo vs MadCap Flare](https://whyseeyc.notion.site/Competitive-Analysis-Paligo-vs-MadCap-Flare-9624f9c96b1d4898b13ce8bbcee7b5c9)
+    - Produced 1 Youtube tutorial in targeting audience: [Single Source Publishing with PowerPoint in 2 Applications](https://www.youtube.com/watch?v=WYJxbrqzxA8) 
+- Designed graphics with `Figma` for **effective communication** with the SWE team 
+- Automated laboratory equipment quarterly validation reports with `MATLAB LiveScript`
+- Specialised in standardising sequence in major MR vendors (Siemens, Philips, GE)
+- Produced conference presentation with `Markdown Preview Enhanced` `Mermaid` `Jupyter Notebook` (Accepted!)
+- Designing Imaging Acquisition Help Center Website with `HTML`,`CSS` (predict to be launched in summer 2022) -->
+
+
+##### Imaging Applications Associate Perspectum Ltd, Jan 2020-Feb 2022
+- Developed pipeline for patient information de-identification with softwares: DicomClearnerTM, OsiriX, and Horos
+- Acquired quantitative MR images for long Covid-19 patients in clinical trial: CoverScan (Identifier: NCT04369807)
+- Manufactured laboratory equipment (Spheric Phantoms) for repeatability & reproducibility experiment
+<!-- - Boosted record sustainability with healthcare data management software *Castor* and *MS CRM* (**4000+** scientific data-points, **250+** clients record)
+- Harmonised communications across product application, customer support and science solutions teams  -->
+
+
+
+<!-- ##### Clinical Intern Radiographer National Taiwan University Hospital 2017-2018
+- Achieved **1st Prize out of 1800 candidates** during 2018 Radiographer Certificate Exam
+- **Elected as the trainee representative** in NTUH annual assessment 2018
+- Completed rotation in the departments of Diagnostic Imaging(4 Months), Nuclear Medicine(2 Months), and Radiotherapy(2 Months)
+- Submitted 3 clinical case studies on imaging modalities including linear accelerator, mammography and ultrasound -->
+
+
+<!-- ##### Research and Teaching Assistant, Medical Physics Lab, I-Shou University 2015-2017
+
+- Responsible for demonstrating at dose calculation experiments; producing  experimental protocols
+- Financed laboratory research grant by **liaising** with the Ministry of Educational and relevant school authorities -->
+
+<!--
+##### Personal English Tutor Pai Han Foreign Language School 2016-2017
+
+- My student achieved full score in English during the high school enrolment exam 2017 and was accepted by Kaohsiung Municipal Kaohsiung Senior High School
+Content writing: Designed customized English courses and promoting materials for agency
+-->
+<!--
+##### Apprentice at Diagnostic Imaging Ward Kaohsiung General Hospital Summer 2016
+- Shadowed ICU portable X-ray operation, CT imaging and MRI imaging
+--->
+
+
+
+### Research Experiences
+
+[Bayesian Network Reveal the Interplay Between Quantitative Liver MRI Metrics (6 months)](https://www.linkedin.com/posts/yi-chun-w_worldradiographyday-mri-ismrm-activity-6995750947612147713-ggnI?utm_source=share&utm_medium=member_desktop)
+
+- Why: Identifying the causal relationships and confounding factors between  MRI metrics is cruicial for accurate liver health assessment
+- See: This work generated 48 Bayesian networks and proven causal reationship from PDFF to cT1 and Volume which was backed up by literatures. The confounding role of PDFF was also identified by this project. 
+
+
+[LiverMultiScan Clinical Systematic Literature Review (4 months)]()
+
+- Why: To provide evidence of medical device clinical utility and its developement with Japan PDMA and FDA submission.
+- See: In this project, I created a software tool to drastically reduce the time for writing regulatory systematic literature reviews and supported the company gained FDA clearnance in August 2022. (This tool is now formally incorporated into the compamny's operation repositories for continous usage) <!-- and Japan PDM approval on XXXX (Date to confirm with Angela) -->
+
+
+[Measuring the Impact of Pineapple Juice on Quantitative Liver MRI Metrics (5 months)](https://www.linkedin.com/posts/yi-chun-w_ismrm-mri-ismrm-activity-6899477468886249472-xuqk) 
+
+- Why: To see if introducing pineapple juice as a contrast agent will introduce bias on quantitative MRI reporting for liver metrics.
+- See: The results proved that pineapple juice does not introduce noticeable bias towards liver MR metrics. This work is **presented in ISMRM 2022 conference**.
+<!-- - Skill: implemented Python libraries:`os`, `pdfplumber` to conduct data cleaning and organising; `Scipy` to perform statistical analysis, sensitivity & specificity analysis; `matplotlib` and `pandas` for result visualisation -->
+
+[Dosimetric Differences Between Margin-based and Minimax Optimisation VMAT Plans for NSCLC (5 months)](https://www.linkedin.com/posts/yi-chun-w_ptcog-conference-research-activity-6635549271171141632-WEL6) 
+
+- Why: To compare radiotherapy treatment efficacy between two different dose optimisation techniques.
+- See: this work proposed a novel treatment planning concept that potentially reduces the side effect of radiotherapy. This work was also **accepted for PTCOG 2020 conference poster presentation**.
+<!-- - Skill: visualized ionising radiation dose data to show tumour coverage with `Raystation 7`, `Python Pandas, Numpy` -->
+
+[Comparisons of Blood flow Conditions of Carotid Artery Before and After Exercise (3 months)]()
+
+- Why: To compare the blood flow condition differences with/without high intensity interval training.
+- See: The results showed systematically increased flow velocity and decreased blood viscosity potentially indicated the benefit of short but intense exercise on a person's circulation system.
+<!-- - Skill: implemented operation of portable `Sonosite Ultrasound` device -->
+
+
+
+
+
+
+
+
+
+### Programming Experiences
+
+##### Perspectum_Refence_App Nov 2022
+- A Python GUI app which **automates the manual workflow** of copy & paste publiucation information from Excel to Word doc, filter records for audiences, and apply branded styles on the output material.
+- Available by request
+
+
+##### Paligo_Renamer_Tool Aug 2022
+
+- A Python CLI tool which helps change file names that complies with the company's file naming convention. This **automates the workflow of download → unzip → rename multiple files into one command line run**.
+- Available by request
+
+##### SLR_Table_Production_Tool Feb 2022
+
+- A samll Python CLI tool which reduces the time for **standardising** table formating when writing regulatory systematic literature reviews.
+- Available by request
+
+
+##### TechLab Open Source Project: Chariteer Oct 2021 - Feb 2022
+
+- Collaborated with fellow trainee developers to design a platform that matches talented volunteers with charities to **maximise social impact**
+<!-- - Responsible for project management with [GitHub Projects](https://github.com/WhySeeYC/Chariteer/projects/1) and data science implementation -->
+- Available at [GitHub Repo Chariteer](https://github.com/WhySeeYC/Chariteer), [Medium Post](https://medium.com/@london_6354/chariteer-eb6a68b00ec1), [Digital Shaper Certificate](https://www.linkedin.com/posts/yi-chun-w_datascience-webdevelopment-uiux-activity-6905896800126144512-wCEv?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+<!-- ##### Web-based Imaging Help Center project August 2021 - Present\
+[This project is actively under development and is expected to launch in 2022.]()
+
+- Established single-sopurce publishing pipeline for multiple formats: `HTML` and `PDF`
+- Coupled `Figma Vector Graphic` and `CSS` to prototype website front end
+- Strategising production, review, legal sign-off and deployment procedures across departments for user-facing software product manuals -->
+
+##### Pineapple Juice Project May 2021 - Nov 2021
+
+- Implemented `os`, `pdfplumber` to organise conduct data cleaning and organising
+- Implemented `Scipy` to perform statistical analysis, sensitivity & specificity analysis
+- Implemented `matplotlib` and `pandas` for result data visualisation
+- This work is **accepted and presented in ISMRM 2022 conference**
+- Available at [ISMRM Member Portal](https://youtu.be/e1ppwkVz9gU)
+<!-- 
+[blog](https://www.notion.so/Pineapple-Juice-Project-e532992cf4804f68aadcddb1d5cb82c3)  -->
+
+##### fYnanCe Project Dec 2020 - Apr 2021
+
+
+- Implemented `regular expression` to extract and organise data from payslip files
+- Implemented `Numpy` and `Pandas` to analyse and visualise expense data in csv format
+- Implemented `Tkinter` to create an app that wrap both above functions
+- Implemented `matplotlib` to present financial data
+- Available at [Build a Personal Finance App with Python Part1](https://www.notion.so/Build-a-Finance-App-with-Python-d11750a039ce43bd884912340d023247) 
+[, Part2](https://www.notion.so/Build-a-Finance-App-with-Python-Part2-a7e192619eaf47bd966fc3ee686f96af)
+[, Part3](https://www.notion.so/Build-a-Finance-App-with-Python-Part2-a7e192619eaf47bd966fc3ee686f96af)
+
+
+
+<!-- 
+### Publiucations
+Bayesian Network Reveal the Interplay of Quantitative Liver MRI Metric, ISMRM 2023 Conference Proceeding -->
+
+<!-- 
+### STAR
+
+- Leadership: I had the vision to improve our comapny's technical support capability by translating technical documentations into the native laguage for the patnering imaging center, I enroled a team to help me to deliver the vision with setting up translation/review pipeline, re-directing budget allocation and automate feedback collection mechanism. Today, we hit the milestones of supporting 5 major languages and received at least 10 pieces of positive feedback. Most importantly, we leverage one of the biggest strength here in Perspectum, a talent pool that consist of at least 28 nationalities. 
+ -->
+
+
+
+
+### Skills & Techniques
+
+*Programming:* 
+
+- `Python`, `R`, `VS Code`, `SQL` → [Certificates](https://www.coursera.org/account/accomplishments/certificate/Z43PPHUS2639) + [GitHub Profile](https://github.com/WhySeeYC)
+- `Markdown`, `HTML`, `XML` → Software documentation
+
+
+*Communication:*
+
+- `Paligo`, `Pandoc` → Scientific writing & Structure authoring [Blog post](https://www.notion.so/Technical-Writing-Tips-Tricks-with-Paligo-f536e1443d744407834eae952c27f8c1) 
+- `Figma` → Radiography graphic design
+- `Notion`, `GitHub` → [Project Management](https://www.youtube.com/watch?v=ET5JZD7IzLQ) & [Website building](https://whyseeyc.notion.site/WhySeeYC-2b29b11f630c4b289d417e6a5232618c)
+
+*Medical Devices:*
+
+- Siemens Area 1.5T MRI → Quantitative MR acquisition on whole body
+- Sonosite Ultrasound → Circulation functional test on carotid arteries
+- RayResearch RayStation7 → Radiotherapy treatment planning on lung cancer
+- DicomClearnerTM, OsiriX, Horos → Patient information de-identification
+
+<!-- 
+### Certificate & Achievement
+May 2022 Joint Annual Meeting ISMRM-ESMRMB 2022 and the ISMRT 31st Annual Meeting 
+Feb 2022 Digital Shaper Certificate, TechLab London
+Jul 2021  HTML Essential Training, LinkedIn Learning
+Mar 2021 Python Data Structure, Coursera
+Mar 2021 GDPR Awareness, Flexebee CPD Accredited
+Mar 2021 Duty OF Candour, Flexebee CPD Accredited
+Mar 2021 Safeguarding Children Awareness, Flexebee CPD Accredited
+Mar 2021 Safegurading Adult Awareness, Flexebee CPD Accredited
+Mar 2021 DIabetes Awareness, Flexebee CPD Accredited
+Mar 2021 Information Governance Awareness, Flexebee CPD Accredited
+Mar 2021 Lone Working Awareness, Flexebee CPD Accredited
+Mar 2021 Fall Prevention Awareness, Flexebee CPD Accredited
+Mar 2021 Fire Safety Awareness, Flexebee CPD Accredited
+Mar 2021 Mental Health Awareness, Flexebee CPD Accredited
+Mar 2021 Age Verification Awareness, Flexebee CPD Accredited
+Mar 2021 Health and Safety Awareness, Flexebee CPD Accredited
+Mar 2021 Manual Handling of Inanimate Object Awareness, Flexebee CPD Accredited
+Mar 2021 Risk Assessment Awareness, Flexebee CPD Accredited
+Mar 2021 Equality and Diversity, Flexebee CPD Accredited
+Mar 2021 Emergency First Aid Awareness, Flexebee CPD Accredited
+Mar 2021 Infection Control Advanced, Flexebee CPD Accredited
+Mar 2021 Coronavirus Awareness anf Infection Control, Flexebee CPD Accredited
+Mar 2021 Moving and Handling of People Awareness, Flexebee CPD Accredited
+Feb 2021 Standard and Enhenced DBS Background Checked, Disclosure and Baring Service
+Nov 2020 Completion of MRI Operation Training, Perspectum Ltd
+Oct 2020 Programming for Everybody, Coursera
+Mar 2020 Good Clinical Practice (GCP) Training, Perspectum Ltd
+Feb 2020 Security Awareness, CybSafe
+Aug 2019 Statistics and Python Essentials, LinkedIn Learning
+Jan 2019 Research Skills Training Certificate for MPLS Division, University of Oxford
+Aug 2018 Medical Radiation Technologist Certificate, Ministry of Health and Welfare of the Republic of China (Taiwan) -->
+
+
+
 ### Languages
 
 - **Mandarin Chinese** Native Proficiency
     
 - **English** Advance Proficiency (studied and worked in Oxford UK since Sep 2018)
+
+
+<!-- 
+### Education
+
+|University of Oxford |I-Shou University|
+|--------------------|-------------------|
+|MSc Radiation Biology (2018~2019)|BSc Medical Imaging and Radiology Sciences (2014~2018)|
+|Merit|GPA 4.0|
+|Master thesis accepted for 59th PTCOG conference presentation|Fully-funded bachelor's degree| -->
+ 
 <!-- (Master's degree completed in English in Oxford) -->
     
 <!-- **Korean** *Basic Proficiency*-->
