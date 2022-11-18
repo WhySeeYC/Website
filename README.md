@@ -11,3 +11,15 @@ What's in the repo:
 - List of publication
 - List of creations
 - Profile code
+
+
+```exclude_in_pdf
+If you want to download PDF, click here
+```
+
+The code block above can be run in terminal to test the output
+```
+pandoc --filter myfilter.py README.md -o test.html
+pandoc --filter myfilter.py README.md -o test.pdf 
+
+```
